@@ -4,7 +4,7 @@
 
 2. Project Demo:
    Mention the live demo to showcase the project.
-   "You can view a live demo of the application here: CountryDetails App Live Demo."
+   "You can view a live demo of the application here: https://world-info12.netlify.app/"
 3. Core Features:
    Highlight the key functionality of the app.
    "Some key features of the CountryDetails app include:
